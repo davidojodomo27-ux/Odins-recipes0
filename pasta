@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Pasta</title>
+  </head>
+  <body>
+
+    <h1>Pasta</h1>
+
+    <img src="https://i.postimg.cc/tC3KydMM/alfredopasta5-500x500.jpg" width="300" />
+
+    <h2>Description</h2>
+    <p>Pasta is a delicious Italian dish that can be made with many different sauces.</p>
+    <p>This recipe uses a simple tomato and beef sauce.</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Spaghetti pasta</li>
+      <li>Ground beef</li>
+      <li>Tomato sauce</li>
+      <li>Onion and garlic</li>
+      <li>Olive oil</li>
+      <li>Salt and pepper</li>
+      <li>Parmesan cheese</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+      <li>Boil water and cook pasta until soft</li>
+      <li>Fry onion and garlic in olive oil</li>
+      <li>Add ground beef and cook until brown</li>
+      <li>Add tomato sauce and simmer for 15 minutes</li>
+      <li>Drain pasta and mix with sauce</li>
+      <li>Serve with parmesan cheese on top</li>
+    </ol>
+
+    <a href="../index.html">Back to Home</a>
+
+  </body>
+</html>
